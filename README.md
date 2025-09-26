@@ -19,3 +19,6 @@ Summary:
 * Contract Type: Customers on Month-to-month contracts have the highest churn rate.
 * Internet Service: Customers with Fiber Optic internet may have the highest churn rate.
 * Tenure and Charges: Churned customers typically have a low tenure and high monthly charges.
+
+Dataset:
+CUSTOMER CHURN PREDICTION form kaggle
